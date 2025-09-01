@@ -1,6 +1,6 @@
 {
     "iosApp": {
-        "minSupportedVersion": "2.5",
+        "minSupportedVersion": "2.6",
         "latestVersion": "2.6",
         "storeCountry": "",
         "messages": {
