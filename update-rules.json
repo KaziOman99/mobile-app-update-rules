@@ -16,10 +16,18 @@
         "versionHistory": [
             {
                 "englishTexts" : [
-                    "Minor bug fixes and improvements"
+                    "Complete redesign of Feed & Forum screens for a modern experience",
+                    "New structured profile system with jobs, education, training, skills, and more",
+                    "Introduced Easy Apply option for faster job applications",
+                    "Company admins can now add sub-admins to manage feeds, jobs, salaries, and company details",
+                    "⁠Minor bug fixes and performance improvements"
                 ],
                 "arabicTexts" : [
-                    "إصلاحات الأخطاء الطفيفة والتحسينات"
+	                "إعادة تصميم شاملة لصفحة المنشورات والمنتدى لتوفير تجربة عصرية وحديثة",
+	                "نظام ملفات شخصية جديد ومنظم يشمل: الوظائف، التعليم، الدورات التدريبية، المهارات، والمزيد",
+	                "إدخال خيار التقديم السريع (Easy Apply) لتسهيل وتسريع عملية التقديم على الوظائف",
+	                "تمكين مسؤولي الشركات من إضافة مساعدين (Sub-admins) لإدارة المنشورات ، الوظائف، الرواتب، وتفاصيل الشركة",
+	                "إصلاحات طفيفة وتحسينات عامة في الأداء"
                 ],
                 "version": "2.6"
             }
