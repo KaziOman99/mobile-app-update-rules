@@ -1,7 +1,7 @@
 {
     "iosApp": {
-        "minSupportedVersion": "2.7",
-        "latestVersion": "2.7",
+        "minSupportedVersion": "2.8",
+        "latestVersion": "2.8",
         "storeCountry": "",
         "messages": {
             "englishTexts" : {
@@ -39,6 +39,15 @@
 					"إصلاحات الأخطاء البسيطة والتحسينات"
 				],
                 "version": "2.7"
+            },
+			{
+                "englishTexts" : [
+                    "Minor bug fixes and improvements"
+                ],
+                "arabicTexts" : [
+					"إصلاحات الأخطاء البسيطة والتحسينات"
+				],
+                "version": "2.8"
             }
         ]
     },
